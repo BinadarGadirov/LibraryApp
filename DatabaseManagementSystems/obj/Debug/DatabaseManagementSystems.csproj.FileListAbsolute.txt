@@ -1,0 +1,9 @@
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\bin\Debug\DatabaseManagementSystems.exe.config
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\bin\Debug\DatabaseManagementSystems.exe
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\bin\Debug\DatabaseManagementSystems.pdb
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\obj\Debug\DatabaseManagementSystems.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\obj\Debug\DatabaseManagementSystems.Properties.Resources.resources
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\obj\Debug\DatabaseManagementSystems.csproj.GenerateResource.cache
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\obj\Debug\DatabaseManagementSystems.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\obj\Debug\DatabaseManagementSystems.exe
+C:\Users\ugrst\source\repos\LibraryApp\DatabaseManagementSystems\obj\Debug\DatabaseManagementSystems.pdb
